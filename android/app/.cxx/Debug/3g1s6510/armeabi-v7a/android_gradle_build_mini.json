@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Library/Developer/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/emilianoangel/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/emilianoangel/Dev/FlutterWorks/flutter_map_app/android/app/.cxx/Debug/3g1s6510/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/emilianoangel/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/emilianoangel/Dev/FlutterWorks/flutter_map_app/android/app/.cxx/Debug/3g1s6510/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
